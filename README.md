@@ -1,7 +1,18 @@
-## Hi there 👋
+<h1>Hi, I'm Shanmukha! <br/><a href="https://github.com/shanmukhaajoji">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/](https://www.linkedin.com/in/shanmukha-ajoji-816356272/">Computer Science Student at Texas A&M University</a> </h1>
+
+<h2>About Me</h2> <p> I’m a sophomore at Texas A&M University, planning to double major in Computer Science and Mathematics. I have a strong interest in Machine Learning (ML) and Large Language Models (LLMs), I would like to apply my knowledge onto real world problems. </p> <p> Outside of academics, I enjoy playing chess as well asbasketball. Other than this, I also enjoy playing videogames on my PS5(favorites include NBA 2K, College Football, and Assassin’s Creed) or listening to music, especially The Weeknd. </p>
+
+<h2>👨‍💻 Projects:</h2>
+
+
+
+
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://www.linkedin.com/in/shanmukha-ajoji-816356272/
 
 <!--
-**shanmukhaajoji/shanmukhaajoji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
