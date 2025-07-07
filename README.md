@@ -9,7 +9,8 @@
 
 
 <h2> 🤳 Connect with me:</h2>
-[linkedin]: https://www.linkedin.com/in/shanmukha-ajoji-816356272/
+<b>LinkedIn</b>
+-https://www.linkedin.com/in/shanmukha-ajoji-816356272/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
