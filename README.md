@@ -3,6 +3,7 @@
 <h2>About Me</h2> <p> I’m a sophomore at Texas A&M University, planning to double major in Computer Science and Mathematics. I have a strong interest in Machine Learning (ML) and Large Language Models (LLMs), I would like to apply my knowledge onto real world problems. </p> <p> Outside of academics, I enjoy playing chess as well asbasketball. Other than this, I also enjoy playing videogames on my PS5(favorites include NBA 2K, College Football, and Assassin’s Creed) or listening to music, especially The Weeknd. </p>
 
 <h2>👨‍💻 Projects:</h2>
+<a href="https://github.com/shanmukhaajoji/Chatbot" target="_blank">Multi-Modal Airline Customer Support Agent</a>
 
 
 
