@@ -6,6 +6,7 @@
 <a href="https://github.com/shanmukhaajoji/llm-hallucination-checker" target="_blank">LLM Hallucination Checker</a><br>
 <a href="https://github.com/shanmukhaajoji/Chatbot" target="_blank">Multi-Modal Airline Customer Support Agent</a><br>
 <a href="https://github.com/shanmukhaajoji/Wordle" target="_blank">Wordle Recreated Java</a>
+<a href="https://github.com/shanmukhaajoji/EXPRESSo-API" target="_blank">EXPRESSo-API</a>
 
 
 
